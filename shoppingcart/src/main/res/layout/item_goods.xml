@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+
+        android:paddingBottom="20dp"
+        tools:background="#3E6694">
+
+        <ImageView
+            android:id="@+id/img"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="8dp"
+            android:src="@mipmap/ic_item_tab1_type4_1" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingTop="5dp">
+
+            <TextView
+                android:id="@+id/tvName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="丰田体系学习"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/tvDes"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="7dp"
+                android:text="参观学习丰田汽车生产线，听山本一夫讲座"
+                android:textColor="#fff"
+                android:textSize="12sp" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp">
+
+                <TextView
+                    android:id="@+id/tvDay"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="10天"
+                    android:textColor="#fff"
+                    android:textSize="13sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+
+                    android:layout_height="25dp"
+                    android:layout_alignParentRight="true"
+
+                    android:gravity="right|center_vertical">
+
+                    <TextView
+                        android:id="@+id/tvMinus"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:background="@drawable/button_minus"
+                        android:clickable="true"
+                        android:gravity="center"
+                        android:visibility="gone"
+                        android:textStyle="bold"
+                         />
+
+                    <TextView
+                        android:id="@+id/count"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:gravity="center"
+                        android:minWidth="20dp"
+                        android:text="0"
+                        android:visibility="gone"
+                        android:textSize="16sp"
+                         />
+
+                    <TextView
+                        android:id="@+id/tvAdd"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:background="@drawable/item_click_bg_del"
+                        android:clickable="true"
+                        android:gravity="center"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+            </RelativeLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!--最后一个item占位-->
+    <View
+        android:id="@+id/holderView"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:visibility="gone" />
+</LinearLayout>

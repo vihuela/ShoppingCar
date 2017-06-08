@@ -1,0 +1,98 @@
+2017-06-06 15:16:52  info:  Task optimizeShoppingcartDebug begin:
+----------------------------------------
+2017-06-06 15:16:52  info:  45 images need to be optimized.
+----------------------------------------
+2017-06-06 15:16:54  info:  Succeed! 669262B-->180715B, 72.99787% saved! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\drawable-xhdpi\bg_confirm_bg.png
+----------------------------------------
+2017-06-06 15:16:54  info:  Succeed! 4280B-->2850B, 33.411217% saved! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\drawable-xhdpi\bg_confirm_btn.png
+----------------------------------------
+2017-06-06 15:16:54  info:  Succeed! 19547B-->8042B, 58.858135% saved! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\drawable-xhdpi\bg_confirm_tip.png
+----------------------------------------
+2017-06-06 15:16:54  info:  Succeed! 658784B-->307624B, 53.304268% saved! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\drawable-xhdpi\bg_login_top_bg.png
+----------------------------------------
+2017-06-06 15:16:54  info:  Succeed! 19086B-->16428B, 13.926438% saved! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\drawable-xhdpi\ic_back_arrow_gray.png
+----------------------------------------
+2017-06-06 15:16:54  info:  Succeed! 19521B-->16871B, 13.575124% saved! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\drawable-xhdpi\ic_back_arrow_white.png
+----------------------------------------
+2017-06-06 15:16:54  info:  Succeed! 16823B-->16713B, 0.6538667% saved! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\drawable-xhdpi\ic_clear.png
+----------------------------------------
+2017-06-06 15:16:54  info:  Succeed! 20115B-->17657B, 12.219736% saved! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\drawable-xhdpi\ic_top_user_login.png
+----------------------------------------
+2017-06-06 15:16:54  info:  Succeed! 20091B-->17490B, 12.946095% saved! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\drawable-xhdpi\ic_top_user_logout.png
+----------------------------------------
+2017-06-06 15:16:54  info:  Succeed! 21472B-->18273B, 14.898473% saved! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\drawable-xxhdpi\ic_shopping_tip.png
+----------------------------------------
+2017-06-06 15:16:55  info:  Succeed! 2144B-->2092B, 2.425373% saved! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\drawable-xxxhdpi\button_add.png
+----------------------------------------
+2017-06-06 15:16:55  warn:  Skipped! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\drawable-xxxhdpi\button_minus.png
+----------------------------------------
+2017-06-06 15:16:55  info:  Succeed! 16748B-->16635B, 0.6747074% saved! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\drawable-xxxhdpi\button_minus_sellist.png
+----------------------------------------
+2017-06-06 15:16:55  info:  Succeed! 2078B-->1748B, 15.880654% saved! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\drawable-xxxhdpi\button_unadd.png
+----------------------------------------
+2017-06-06 15:16:55  info:  Succeed! 1138B-->1136B, 0.17574692% saved! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\drawable-xxxhdpi\icon_cart.png
+----------------------------------------
+2017-06-06 15:16:55  info:  Succeed! 3418B-->2461B, 27.998829% saved! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-hdpi\ic_launcher.png
+----------------------------------------
+2017-06-06 15:16:55  info:  Succeed! 2206B-->1895B, 14.097915% saved! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-mdpi\ic_launcher.png
+----------------------------------------
+2017-06-06 15:16:55  warn:  Skipped! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xhdpi\ic_back_arrow.png
+----------------------------------------
+2017-06-06 15:16:55  info:  Succeed! 4842B-->3067B, 36.658405% saved! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xhdpi\ic_launcher.png
+----------------------------------------
+2017-06-06 15:16:55  info:  Succeed! 644382B-->344757B, 46.49804% saved! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xxhdpi\bg_list.png
+----------------------------------------
+2017-06-06 15:16:56  warn:  Skipped! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xxhdpi\ic_item_tab1_type4_1.png
+----------------------------------------
+2017-06-06 15:16:56  warn:  Skipped! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xxhdpi\ic_item_tab1_type4_2.png
+----------------------------------------
+2017-06-06 15:16:56  warn:  Skipped! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xxhdpi\ic_item_tab1_type4_3.png
+----------------------------------------
+2017-06-06 15:16:56  warn:  Skipped! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xxhdpi\ic_item_tab1_type4_4.png
+----------------------------------------
+2017-06-06 15:16:56  warn:  Skipped! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xxhdpi\ic_item_tab2_type4_1.png
+----------------------------------------
+2017-06-06 15:16:56  warn:  Skipped! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xxhdpi\ic_item_tab2_type4_2.png
+----------------------------------------
+2017-06-06 15:16:57  info:  Succeed! 507851B-->121108B, 76.15285% saved! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xxhdpi\ic_item_tab2_type4_3.png
+----------------------------------------
+2017-06-06 15:16:57  warn:  Skipped! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xxhdpi\ic_item_tab2_type4_4.png
+----------------------------------------
+2017-06-06 15:16:57  warn:  Skipped! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xxhdpi\ic_item_tab3_type4_1.png
+----------------------------------------
+2017-06-06 15:16:57  warn:  Skipped! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xxhdpi\ic_item_tab3_type4_2.png
+----------------------------------------
+2017-06-06 15:16:57  warn:  Skipped! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xxhdpi\ic_item_tab3_type4_3.png
+----------------------------------------
+2017-06-06 15:16:57  warn:  Skipped! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xxhdpi\ic_item_tab3_type4_4.png
+----------------------------------------
+2017-06-06 15:16:58  warn:  Skipped! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xxhdpi\ic_item_tab4_type4_1.png
+----------------------------------------
+2017-06-06 15:16:58  warn:  Skipped! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xxhdpi\ic_item_tab4_type4_2.png
+----------------------------------------
+2017-06-06 15:16:58  warn:  Skipped! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xxhdpi\ic_item_tab4_type4_3.png
+----------------------------------------
+2017-06-06 15:17:02  warn:  Skipped! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xxhdpi\ic_item_tab4_type4_4.png
+----------------------------------------
+2017-06-06 15:17:03  warn:  Skipped! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xxhdpi\ic_item_tab5_type4_1.png
+----------------------------------------
+2017-06-06 15:17:03  warn:  Skipped! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xxhdpi\ic_item_tab5_type4_2.png
+----------------------------------------
+2017-06-06 15:17:03  warn:  Skipped! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xxhdpi\ic_item_tab5_type4_3.png
+----------------------------------------
+2017-06-06 15:17:03  warn:  Skipped! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xxhdpi\ic_item_tab5_type4_4.png
+----------------------------------------
+2017-06-06 15:17:03  info:  Succeed! 7718B-->4257B, 44.843224% saved! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xxhdpi\ic_launcher.png
+----------------------------------------
+2017-06-06 15:17:03  warn:  Skipped! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xxhdpi\ic_tab1.png
+----------------------------------------
+2017-06-06 15:17:03  warn:  Skipped! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xxhdpi\ic_tab2.png
+----------------------------------------
+2017-06-06 15:17:03  warn:  Skipped! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xxhdpi\ic_tab3.png
+----------------------------------------
+2017-06-06 15:17:03  info:  Succeed! 10486B-->5662B, 46.004196% saved! C:\Users\LEON\Desktop\saleDemo4Android\code\shoppingcart\src\main\res\mipmap-xxxhdpi\ic_launcher.png
+----------------------------------------
+2017-06-06 15:17:03  info:  Total: 45, Succeed: 21, Skipped: 24, Failed: 0, Saved: 1527.8427734375KB
+----------------------------------------
+2017-06-06 15:17:03  info:  Task optimizeShoppingcartDebug executed successfully.
+----------------------------------------
